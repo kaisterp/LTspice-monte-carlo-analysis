@@ -1,6 +1,8 @@
 # LTspice Monte Carlo Analysis Script
 Run a Monte Carlo analysis in LTspice, und use this script to plot
-your results.
+your results. The scripts will return a distribution of the relative
+frequency of your data, with the standard deviation and 3 sigma ranges 
+shown on the plots.
 
 ### A few things to note:
 - You have to enter the number of step of your monte carlo simulation in the script.
